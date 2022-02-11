@@ -1,0 +1,15 @@
+{
+  "name": "generate-pdf",
+  "version": "1.0.0",
+  "main": "server.js",
+  "repository": "https://github.com/BoanergesJunior/generate-pdf.git",
+  "author": "BoanergesJunior <boanerges_junior@hotmail.com>",
+  "scripts": {
+    "start": "nodemon node server.js"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "html-pdf": "^3.0.1",
+    "nodemon": "^2.0.15"
+  }
+}
